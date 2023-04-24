@@ -7,10 +7,9 @@ freeCodeCamp project.
 [DIRECT LINK](https://cbushehry.github.io/css-color-markers/)
 
 ## 2. Features
- * 
- * 
+ * Reveiw code to see how to create 3 different color markers
 
- ![](images/css-color-markers.jpg)
+ ![](assets/images/css-color-markers.jpg)
 
 ## 3. Credits / Contact
 This application was created by Cameron Bushehry
