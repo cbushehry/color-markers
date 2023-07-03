@@ -8,7 +8,7 @@ freeCodeCamp project.
 
 ## 2. Features
  * Reveiw code to see how to create 3 different color markers
-
+<br></br>
  ![](assets/images/css-color-markers.jpg)
 
 ## 3. Credits / Contact
